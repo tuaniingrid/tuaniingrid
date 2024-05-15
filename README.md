@@ -7,7 +7,7 @@ Meu nome é ingrid tuani
 - estou me desenvolvendo na linguagem Javascirpt
 - Utilizando esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
- ### Você em contato comigo 📫
+ ### Você pode entrar em contato comigo 📫
 
  tuanituani4@gmail.com
 
